@@ -1,4 +1,4 @@
 # Python_tictactoe
-Python projeto - Tictactoe
+Projeto Python - Tictactoe
 
 Esse foi meu primeiro projeto utilizando a linguagem Python.
